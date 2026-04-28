@@ -1,0 +1,1 @@
+export { PersonalFormPage } from './PersonalFormPage'
